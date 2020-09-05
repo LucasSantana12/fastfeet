@@ -11,11 +11,11 @@
 
  - A aplicação usa o Postgres como base de dados;
   
-  -crie um banco de dados com seguindo os dados no arquivo src/config/database.js; 
+ - crie um banco de dados com seguindo os dados no arquivo src/config/database.js; 
    
-  -iniciae as migrations usando "yarn sequlize db:migrate"
+ - niciae as migrations usando "yarn sequlize db:migrate"
      
-  -Em seguida use o comando "yarn dev" para iniciar a aplicação;
+ - Em seguida use o comando "yarn dev" para iniciar a aplicação;
 
  - Use o Insomia para testar a base de dados
 
