@@ -7,25 +7,27 @@
  
  <h2>para iniciar<h2>
  <li>
+  <ul>
   Digite o comando "yarn" para instalar todas as dependecias que exite na aplicação;
- </li>
+ </ul>
   
-  <li>
+  <ul>
   A aplicação usa o Postgres como base de dados;
-  </li>
+  </ul>
   
-  <li>
+  <ul>
   crie um banco de dados com seguindo os dados no arquivo src/config/database.js; 
-   </li>
+   </ul>
    
-    <li>
+    <ul>
   iniciae as migrations usando "yarn sequlize db:migrate"
-   </li>
+   </ul>
    
-    <li>
+    <ul>
   Em seguida use o comando "yarn dev" para iniciar a aplicação;
-   </li>
-   <li>
+   </ul>
+   
+   <ul>
   Use o Insomia para testar a base de dados
   
- </li>
+ </ul>
